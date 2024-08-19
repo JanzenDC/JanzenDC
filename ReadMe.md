@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Janzen Forrest Dela Cruz</h1>
-<h3 align="center">A dedicated backend developer from the Philippines who really loves what they do.</h3>
+<h3 align="center">A dedicated backend developer from the Philippines.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janzendc&label=Profile%20views&color=0e75b6&style=flat" alt="janzendc" /> </p>
 
