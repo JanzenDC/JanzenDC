@@ -1,3 +1,5 @@
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/32be5dee-e64f-40c4-aacc-e9153f2e4d2b" />
+
 <h1 align="center">👋 Hi I'm Janzen</h1>
 
 <p align="center">Driven by a passion for backend development, databases, and building things that scale.</p>
